@@ -1,0 +1,13 @@
+C:\newcolor2013\testjsnav1\testjsnav1\bin\Debug\resources.pri
+C:\newcolor2013\testjsnav1\testjsnav1\bin\Debug\AppxManifest.xml
+C:\newcolor2013\testjsnav1\testjsnav1\bin\Debug\testjsnav1.build.appxrecipe
+C:\newcolor2013\testjsnav1\testjsnav1\bld\Debug\priconfig.xml.intermediate
+C:\newcolor2013\testjsnav1\testjsnav1\bld\Debug\layout.resfiles.intermediate
+C:\newcolor2013\testjsnav1\testjsnav1\bld\Debug\resources.resfiles.intermediate
+C:\newcolor2013\testjsnav1\testjsnav1\bld\Debug\pri.resfiles.intermediate
+C:\newcolor2013\testjsnav1\testjsnav1\bld\Debug\priconfig.xml
+C:\newcolor2013\testjsnav1\testjsnav1\bld\Debug\layout.resfiles
+C:\newcolor2013\testjsnav1\testjsnav1\bld\Debug\resources.resfiles
+C:\newcolor2013\testjsnav1\testjsnav1\bld\Debug\pri.resfiles
+C:\newcolor2013\testjsnav1\testjsnav1\bld\Debug\LanguageQualifiers.txt
+C:\newcolor2013\testjsnav1\testjsnav1\bld\Debug\ProjectArchitectures.txt
